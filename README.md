@@ -37,6 +37,4 @@ npm test
 
 # check update for npm packages, please install 'npm install npm-check-updates -g' at first
 npm run update
-```
 
-![image](https://raw.githubusercontent.com/xiaoping6688/vue-spa-project/master/static/img/screenshot.png)
